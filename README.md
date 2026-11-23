@@ -5,7 +5,8 @@ The installed prototype is named Scarlett Direct.
 An independent project by Vince Romanelli (Performance Percussion). It is not
 affiliated with, endorsed by, or supported by Focusrite. Scarlett is a trademark of
 its owner. It writes routing and mixer settings to real hardware: use it at your
-own risk, with monitoring turned down. Released under the [MIT License](LICENSE).
+own risk, with monitoring turned down. Released under the [MIT License](LICENSE); bundled third-party material keeps its
+own license (see `THIRD-PARTY-NOTICES.txt` and `App/Fonts/`).
 
 A native iPad app plus a USB DriverKit extension for **Scarlett 4i4 3rd Gen**
 (USB 1235:8212). This is a development experiment, not a released product.
