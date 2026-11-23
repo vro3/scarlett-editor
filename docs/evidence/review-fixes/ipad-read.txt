@@ -1,0 +1,5 @@
+No hardware commands sent.
+Interfaces: Scarlett 4i4 [driver-4295034515] serial=SERIAL-REDACTED; Scarlett 2i2 USB [audio-AppleUSBAudioEngine:Focusrite:Scarlett 2i2 USB:120000:1,2] serial=unavailable
+3:09:50 PM · Read from selected Scarlett · firmware 1605
+600080 601081 602082 603083
+Interfaces: Scarlett 4i4 [driver-4295034515] serial=SERIAL-REDACTED; Scarlett 2i2 USB [audio-AppleUSBAudioEngine:Focusrite:Scarlett 2i2 USB:120000:1,2] serial=unavailable

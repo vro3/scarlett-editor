@@ -1,0 +1,8 @@
+#include <DriverKit/IOService.iig>
+// Diagnostic-only personality: establishes whether iPadOS can load this dext
+// independently of USB matching. No user client and no hardware access.
+class ScarlettBootstrap : public IOService {
+public:
+    virtual kern_return_t Start(IOService* provider) override;
+    virtual kern_return_t Stop(IOService* provider) override;
+};

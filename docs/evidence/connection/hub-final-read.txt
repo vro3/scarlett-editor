@@ -1,0 +1,5 @@
+No hardware commands sent.
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:51:04 PM · Read from Scarlett · firmware 1605
+600080 601081 602082 603083

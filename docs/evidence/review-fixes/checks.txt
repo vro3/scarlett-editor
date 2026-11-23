@@ -1,0 +1,7 @@
+Debug signed build: PASS
+Release signed build: PASS
+Generated project/plists/entitlements identical after regeneration: PASS
+Release executable automatic write/tone/screenshot keys absent: PASS
+Real iPad read: PASS (firmware 1605; 4i4 control and 2i2 audio)
+Recovery snapshot serial, 18 routes, capture date and pending=false preserved on relaunch: PASS
+No hardware routing writes or tones run in this pass.

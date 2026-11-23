@@ -1,0 +1,13 @@
+Test Suite 'All tests' started at 2026-11-15 19:05:09.566.
+Test Suite 'MixerHardwareTests.xctest' started at 2026-11-15 19:05:09.566.
+Test Suite 'MixerHardwareTests' started at 2026-11-15 19:05:09.566.
+Test Case '-[MixerHardwareTests.MixerHardwareTests testEightChannels]' started.
+HARDWARE PASS: eight fader/mute/unmute channels, all six rows and 18 routes verified; original levels restored
+Test Case '-[MixerHardwareTests.MixerHardwareTests testEightChannels]' passed (8.267 seconds).
+Test Suite 'MixerHardwareTests' passed at 2026-11-15 19:05:17.833.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.267 (8.267) seconds
+Test Suite 'MixerHardwareTests.xctest' passed at 2026-11-15 19:05:17.834.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.267 (8.267) seconds
+Test Suite 'All tests' passed at 2026-11-15 19:05:17.834.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.267 (8.268) seconds
+** TEST SUCCEEDED **

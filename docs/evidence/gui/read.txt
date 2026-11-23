@@ -1,0 +1,7 @@
+No hardware commands sent.
+Interfaces: Scarlett 4i4 [driver-4295026867]; Scarlett 2i2 USB [audio-AppleUSBAudioEngine:Focusrite:Scarlett 2i2 USB:120000:1,2]
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 2i2 USB [USBAudio]
+3:00:27 PM · Read from Scarlett · firmware 1605
+600080 601081 602082 603083
+Interfaces: Scarlett 4i4 [driver-4295026867]; Scarlett 2i2 USB [audio-AppleUSBAudioEngine:Focusrite:Scarlett 2i2 USB:120000:1,2]

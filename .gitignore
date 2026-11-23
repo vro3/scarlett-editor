@@ -1,0 +1,15 @@
+# Regenerated builds and per-user Xcode state; never source.
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Disposable serial-specific XCTest project; generator and tests are source.
+ScarlettHardwareTests.xcodeproj/
+
+# Internal review notes; kept on this Mac, never published.
+gptfindings/
+
+# Scratch copy built by scripts/make_public_export.sh.
+public-export/

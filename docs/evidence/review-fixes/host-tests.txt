@@ -1,0 +1,4 @@
+PASS: roundtrip, preservation, restore, truncated/oversize/duplicate/unknown routes, response identity/error/sequence, source whitelist, 100000 malformed routing tables
+PASS: fake-device unread/drift/rebaseline/lost-reply/recovery/full-readback/restart policy
+PASS: durable recovery restart/device isolation/corruption/path safety/save failure
+PASS: USB matching restricted to Scarlett 4i4 Gen 3 vendor interface 3

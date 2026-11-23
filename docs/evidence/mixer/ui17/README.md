@@ -1,0 +1,3 @@
+# Compact fader UI — app 17, driver 12 unchanged
+
+User requested the Focusrite-style simplicity: vertical faders, input names, dB and mute. Mixer is default. Recovery/baseline commands moved to an overflow menu. One Edit confirmation replaces the two inline confirmation toggles; existing model and driver guards remain. Device selection reads routing then mix; Load interface supports initial selection. One short status line remains visible. The production panel was rendered offscreen with fixture data; this is layout evidence, not hardware evidence. Host tests and signed Debug build pass. Mixer hardware acceptance remains pending.

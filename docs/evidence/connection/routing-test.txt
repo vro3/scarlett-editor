@@ -1,0 +1,15 @@
+No hardware commands sent.
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:40:15 PM · Read from Scarlett · firmware 1605
+600080 601081 602082 603083
+TEST: temporarily set Line 3 Off, then restore Playback 3.
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:40:15 PM · Routing change read back from hardware
+600080 601081 000082 603083
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:40:15 PM · Original Line Output 3 source restored and verified
+600080 601081 602082 603083
+TEST RESULT: Off verified=true, original restored=true.

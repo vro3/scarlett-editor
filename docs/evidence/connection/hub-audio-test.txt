@@ -1,0 +1,26 @@
+No hardware commands sent.
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:50:23 PM · Read from Scarlett · firmware 1605
+600080 601081 602082 603083
+Tone assignment: USB Playback 3 only; Playback 4 carries zeros. Channels=4.
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:50:23 PM · Routing change read back from hardware
+600080 601081 602082 603083
+2:50:23 PM · LISTEN: quiet tone at Line Output 3 (5 seconds)
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:50:28 PM · Routing change read back from hardware
+600080 601081 000082 603083
+2:50:28 PM · LISTEN: silence at Line Output 3 (5 seconds)
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:50:33 PM · Routing change read back from hardware
+600080 601081 602082 603083
+2:50:33 PM · LISTEN: quiet tone at Line Output 3 (5 seconds)
+Driver bundle: running (USB attachment checked separately)
+Audio outputs: Scarlett 4i4 USB [USBAudio]
+2:50:39 PM · Original Line Output 3 source restored and verified
+600080 601081 602082 603083
+AUDIO TEST: routing read-backs=true, original restored=true. Listening result requires user confirmation.
